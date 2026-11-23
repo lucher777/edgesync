@@ -1,0 +1,9 @@
+site_name: EdgeSync Documentation
+site_url: https://lucher777.github.io/edgesync/
+repo_url: https://github.com/lucher777/edgesync
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Tutorial: tutorial.md
+  - API Reference: api.md

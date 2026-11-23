@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "edgesync: A Static-Memory Clock Synchronization and Farrow Resampling Kernel for Wearable Sensors"
+message: "If you use EdgeSync in academic work or embedded firmware, please cite this software."
+type: software
+authors:
+  - family-names: Liu
+    given-names: Kang
+    orcid: "https://orcid.org/0009-0004-3214-505X"
+    email: peacekange@gmail.com
+    affiliation: "Faculty of Education, Shandong Normal University, Jinan, China"
+repository-code: "https://github.com/lucher777/edgesync"
+license: MIT
+version: 0.1.0
+date-released: "2026-11-19"
+keywords:
+  - embedded systems
+  - clock synchronization
+  - cubic Farrow resampler
+  - static memory
+  - wearable sensors
+  - ANSI C11
